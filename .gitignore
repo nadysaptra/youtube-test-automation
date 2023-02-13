@@ -1,2 +1,2 @@
-build/*
+build/
 tests/__pycache__/
